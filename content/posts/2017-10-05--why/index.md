@@ -1,7 +1,7 @@
 ---
 title: Meet the Team
 category: "About Us"
-cover: 
+cover: IMG_9872.JPG
 author: ''
 ---
 
