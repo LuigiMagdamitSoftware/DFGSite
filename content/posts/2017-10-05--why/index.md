@@ -1,5 +1,5 @@
 ---
-title: Meet the Team
+title: Gallery
 category: "About Us"
 cover: IMG_9872.JPG
 author: ''
